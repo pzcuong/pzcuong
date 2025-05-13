@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Cuong, Pham Quoc</h1>
-<h3 align="center">A student of University of Information Technology (VNUHCM - UIT), majoring in Information Technology.</h3>
+<h3 align="center"> Graduated as valedictorian from the University of Information Technology (VNUHCM - UIT), majoring in Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pzcuong&label=Profile%20views&color=0e75b6&style=flat" alt="pzcuong" /> </p>
 
-- 🔭 I’m currently working on [SQL Injection Detection Website](https://github.com/pzcuong/SQL-Injection-Dectection-Website)
-
+- 🔭 I’m currently working on ...
+  
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NodeJS, SQL, NoSQL, ExpressJS**
 
-- 🔭 I’m currently working on [WeQuery](https://github.com/pzcuong/WeQuery)
-
-- 👯 I’m looking to collaborate on [Student Management](https://github.com/pzcuong/QuanLyHocSinh)
+- 🔭 I’m currently working on ...
 
 - 👨‍💻 All of my projects are available at [https://github.com/pzcuong?tab=repositories](https://github.com/pzcuong?tab=repositories)
 
 - 📫 How to reach me **pzcuonguit@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/WAFWCwwGAlMAUAoDAFUKVwEGCl0GAAIADFZXVgfdb9](https://www.topcv.vn/xem-cv/WAFWCwwGAlMAUAoDAFUKVwEGCl0GAAIADFZXVgfdb9)
+- 📄 Know about my experiences [TopCV](https://www.topcv.vn/xem-cv/CFpVVQQCBwMGVQdYD1IEBQEFCFcKUlADAAAIVQ5506)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
